@@ -1,1 +1,1 @@
-# Fasion-MNIST
+# Mini AlexNet
